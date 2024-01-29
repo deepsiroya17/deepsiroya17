@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deep Siroya</h1>
 <h3 align="center">MSIS Graduate Student at Northeastern University</h3>
 
-- 🔭 I’m currently working on [Text to SQL Converter](https://github.com/AviMehta90/LLM-Database)
-
-- 🌱 I’m currently learning **AWS**
-
 - 📫 How to reach me **deepsiroya99@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BCTTHZgjkRaNET25WsMOAM0GZdIR6VuD/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G_se-DSq5DXhqa3CFyuLY7t1lj7_e4eD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
